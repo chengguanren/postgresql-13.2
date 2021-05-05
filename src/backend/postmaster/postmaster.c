@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------------
- *
+ * filename: postmaster
  * postmaster.c
  *	  This program acts as a clearing house for requests to the
  *	  POSTGRES system.  Frontend programs send a startup message
